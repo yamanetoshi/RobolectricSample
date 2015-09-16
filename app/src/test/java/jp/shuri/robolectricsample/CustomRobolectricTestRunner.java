@@ -18,4 +18,4 @@ public class CustomRobolectricTestRunner extends RobolectricTestRunner {
         System.setProperty("android.resources", "build/intermediates/res/" + buildVariant);
         System.setProperty("android.assets", "build/intermediates/assets/" + buildVariant);
     }
-cd dev/proj}
+}
